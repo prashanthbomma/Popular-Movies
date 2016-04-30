@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="grid_item_movie_width">100dp</dimen>
+    <dimen name="grid_item_movie_spacing">7dp</dimen>
+    <dimen name="grid_item_movie_height">170dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <!-- margins -->
+    <dimen name="margin_fab">16dp</dimen>
+    <dimen name="margin_inline">4dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <!-- misc dimensions -->
+    <item name="body_text_line_spacing" format="float" type="dimen">1.15</item>
+
+
+</resources>
